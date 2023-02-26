@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/thiago-campos-921573230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
+
+<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/kono100/count.svg" /></p>
 
 
