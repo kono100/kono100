@@ -66,9 +66,6 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
-
-
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kono100/kono100/blob/output/github-contribution-grid-snake.svg)
  
