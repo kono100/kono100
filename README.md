@@ -49,8 +49,11 @@ Here are some ideas to get you started:
 </div>
 </br>
 
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/kono100/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kono100}/count.svg" /></p> 
+<br></div>
 
 
 
