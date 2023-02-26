@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -14,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 
 <div align="center">
@@ -51,6 +49,14 @@ Here are some ideas to get you started:
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/kono100/count.svg" /></p>
+
+
+<!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+ <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+</p>
+<hr>
+
 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
