@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </br>
 <div align="center" style="display: inline_block">
 </br>
-Backend
+Back-end
 </br>
 </br>
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
@@ -46,8 +46,7 @@ Backend
 <div align="center">
   </br>
   </br>
-  </br>
-Frontend
+Front-end
 </br>
 </br>
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -55,7 +54,6 @@ Frontend
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
  </div>
-</br>
 </br>
 </br>
 
