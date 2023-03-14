@@ -31,9 +31,9 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono100&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
-<fieldset>
 </br>
 <div align="center" style="display: inline_block">
+<fieldset>
 </br>
 Back-end
 </br>
