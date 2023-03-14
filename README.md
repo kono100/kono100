@@ -31,17 +31,18 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono100&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
+<fieldset>
 </br>
 <div align="center" style="display: inline_block">
 </br>
-<fieldset>
 Back-end
 </br>
 </br>
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </fieldset>
+</fieldset>
+
 </div> 
 
 <div align="center">
