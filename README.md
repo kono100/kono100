@@ -52,6 +52,16 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+#### Banco de Dados:
+<p>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </a>
+
+</p>
+</div>
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kono100}/count.svg" /></p> 
 <br></div>
