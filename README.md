@@ -43,7 +43,7 @@ Backend
   
 </div> 
 
-<div align="center" style="display: inline_block">
+<div align="center">
   </br>
 Frontend
 </br>
