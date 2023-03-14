@@ -60,7 +60,6 @@ Front-end
 <div align="center">
 Banco de Dados
   </br>
-  </br>
 <p>
 
   <img align="center" alt="MySQL" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
