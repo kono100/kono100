@@ -88,7 +88,7 @@ Banco de Dados
 
 <p align="center"/p>
 <!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
- <img align="" height='150px' width='300px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+ <img align="" height='120px' width='500px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 <!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
 </p>
 <hr>
