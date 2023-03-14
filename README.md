@@ -63,7 +63,7 @@ Banco de Dados
   </br>
 <p>
 
-  <img align="center" alt="MySQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 </p>
 </div>
