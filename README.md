@@ -62,9 +62,8 @@ Banco de Dados
   </br>
   </br>
 <p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
+
+  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 </p>
 </div>
