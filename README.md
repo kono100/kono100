@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 
 
-    <form action="" method="post" enctype="multipart/form-data">
         <fieldset>
 
         <div style="text-align: center;">
