@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <div align="center">
 <h2> Seja, bem vindo!</h2>
 </div>
@@ -43,7 +41,6 @@ Back-end
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </fieldset>
-
 
 </div> 
 
@@ -72,7 +69,6 @@ Banco de Dados
 </div>
 </br>
   
-   
  <div align="center">
   <a href="https://www.instagram.com/thiago.campos.35574/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href = "mailto:thiago-kono@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -84,8 +80,6 @@ Banco de Dados
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kono100}/count.svg" /></p> 
 </div>
-
-
 
 <p align="center"/p>
 <!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
