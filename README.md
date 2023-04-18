@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Higor;I'm+a+programming+student!+👋+:%29)]([https://git.io/typing-svg](https://github.com/kono100))
+
 <div align="center">
 <h2> Seja, bem vindo!</h2>
 </div>
