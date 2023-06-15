@@ -75,7 +75,7 @@ Banco de Dados
 <p>
 
   <img align="center" alt="MySQL" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Google Clound" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" />
+
 
 </p>
 </div>
@@ -89,7 +89,7 @@ Banco de Dados
 Cloud
   </br>
 <p>
-
+  
     <img align="center" alt="Google Clound" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" />
 
   
