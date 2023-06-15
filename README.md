@@ -80,6 +80,27 @@ Banco de Dados
 </p>
 </div>
 </br>
+
+
+
+
+
+<div align="center">
+Cloud
+  </br>
+<p>
+
+    <img align="center" alt="Google Clound" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" />
+
+  
+      <img align="center" alt="Azure" height="70" width="85" src=" " />
+  
+</p>
+</div>
+</br>
+
+
+
   
  <div align="center">
   <a href="https://www.instagram.com/thiago.campos.35574/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
