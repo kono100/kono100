@@ -75,6 +75,7 @@ Banco de Dados
 <p>
 
   <img align="center" alt="MySQL" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Google Clound" height="70" width="85" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg)" />
 
 </p>
 </div>
