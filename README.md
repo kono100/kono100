@@ -108,7 +108,7 @@ Outras Ferramentas
 <p>
   
 
-  <img align="center" alt="Google Cloud" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Google Cloud" height="70" width="85" src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg](https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png)" />
 
   <img align="center" alt="Microsoft Azure" height="70" width="85" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" />
 
