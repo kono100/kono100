@@ -107,6 +107,7 @@ Ferramentas
 <p>
   
 
+<img align="center" alt="Power BI" height="70" width="85" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" />
 <img align="center" alt="Power BI" height="70" width="85" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
 
 
