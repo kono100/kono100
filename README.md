@@ -33,9 +33,29 @@ Here are some ideas to get you started:
 
 # Minha apresentação
 
-"mensagem": "Seja muito bem-vinde ao meu perfil do GitHub!"
+informacoes_gerais = {
+"nomes": ["Thiago Yugue Kono Campos", "Japa"],
+"pronomes": "ele/dele/e",
+"interesses": ["Desenvolvimento", "IA", "Ciência de Dados", "Visão Computacional","DBA"],
+"linguagens": ["Python3", "C#", ".Net", "JavaScript"],
+"tecnologias": ["OpenCV", "Roboflow", "OCR", "Flask", "Yolo", "HTML", "CSS"],
+"cloud": ["Azure", "Google Cloud", "AWS", "Cisco"],
+"ocupacoes": {
+        "estudante": "Cursando Analise e desenvolvimento de Sistemas em Faculdade REGES",
+	"periodo": "5/6",
+        "trabalho": "Fiscalização de Veiculos de Carga",
+        "hobbies": [
+            "Viajar é uma maneira emocionante de expandir horizontes, criar memórias inesquecíveis", 
+            "Especialista em futebol com cachorros"
+        ]
+    },
+"pets": {"cachorro1": "Mel", "cachorro2": "Chop", "cachorro3": "Pandora"},
+"mensagem": "Seja muito bem-vinde ao meu perfil do GitHub!",
+"linkedin": {"www.linkedin.com/in/thiago-yugue-kono-campos-921573230/"}
 }
 ``` 
+
+
 
 </br>
 </br>
