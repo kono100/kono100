@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 </br>
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Thiago;I'm+a+programming+student!+👋+:%29)]([https://git.io/typing-svg](https://github.com/kono100))
-
 </br>
 </br>
 
@@ -54,6 +49,14 @@ informacoes_gerais = {
 "linkedin": {"www.linkedin.com/in/thiago-yugue-kono-campos-921573230/"}
 }
 ``` 
+
+</br>
+</br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+welcome+to+my+repository,+I'm+Thiago;I'm+a+programming+student!+👋+:%29)]([https://git.io/typing-svg](https://github.com/kono100))
+
+
 
 
 
