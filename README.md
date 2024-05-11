@@ -47,7 +47,8 @@ informacoes_gerais = {
 "linkedin": {"www.linkedin.com/in/thiago-yugue-kono-campos-921573230/"}
 }
 
-<a href="https://www.linkedin.com/in/thiago-yugue-kono-campos-921573230/">www.linkedin.com/in/thiago-yugue-kono-campos-921573230/</a>
+
+<a href="https://www.linkedin.com/in/thiago-yugue-kono-campos-921573230/" target="_blank">LinkedIn</a>
 ``` 
 
 </br>
