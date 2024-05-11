@@ -46,9 +46,6 @@ informacoes_gerais = {
 "mensagem": "Seja muito bem-vinde ao meu perfil do GitHub!",
 "linkedin": {"www.linkedin.com/in/thiago-yugue-kono-campos-921573230/"}
 }
-
-
-<a href="https://www.linkedin.com/in/thiago-yugue-kono-campos-921573230/" target="_blank">LinkedIn</a>
 ``` 
 
 </br>
