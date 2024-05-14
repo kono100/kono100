@@ -77,7 +77,7 @@ informacoes_gerais = {
 <div align="center" style="display: inline_block">
 <fieldset>
 </br>
-###Back-end
+<h3>Back-end</h3>
 </br>
 </br>
 	
@@ -94,45 +94,30 @@ informacoes_gerais = {
 <div align="center">
   </br>
   </br>
-Front-end
+<h3>Front-end</h3>
 </br>
 </br>
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ally-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
- </div>
- </div>
-</br>
-</br>
-
-
-
-
-<div>
 
 | HTML5 | CSS | JavaScript | Bootstrap |
 |----------|----------|----------|----------|
 |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|
-</div>
+
+
+ </div>
+ </div>
+</br>
+</br>
+
+
+
 
   
 
 
 
-<div>
-
-| HTML5 | CSS | JavaScript | Bootstrap |
-|----------|----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> | <img
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img
-   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|
-</div>
-
 
 <div align="center">
-Banco de Dados
+<h3>Banco de Dados</h3>
   </br>
 <p>
 
@@ -147,7 +132,7 @@ Banco de Dados
 
 
 <div align="center">
-Cloud
+<h3>Cloud</h3>
   </br>
 <p>
   
