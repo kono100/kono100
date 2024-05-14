@@ -137,9 +137,9 @@ informacoes_gerais = {
 <p>
   
 
-  <img align="center" alt="Google Cloud" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" />
-
-  <img align="center" alt="Microsoft Azure" height="70" width="85" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" />
+| Azure | GCP |
+|----------|----------|
+|  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="GCP"  alt="GCP" width="55" height="55"/> |
 
 
   
@@ -154,10 +154,9 @@ Ferramentas
 <p>
   
 
-<img align="center" alt="Power BI" height="70" width="85" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" />
-<img align="center" alt="Power BI" height="70" width="85" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
-
-
+| Git | BI |
+|----------|----------|
+|  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" title="Git"  alt="Git" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" title="BI"  alt="BI" width="55" height="55"/> |
 
   
 </p>
