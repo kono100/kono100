@@ -79,7 +79,6 @@ informacoes_gerais = {
 </br>
 <h3>Back-end</h3>
 </br>
-</br>
 	
 | Python3 | C# | Java | C |
 |----------|----------|----------|----------|
@@ -95,7 +94,6 @@ informacoes_gerais = {
   </br>
   </br>
 <h3>Front-end</h3>
-</br>
 </br>
 
 | HTML5 | CSS | JavaScript | Bootstrap |
@@ -149,7 +147,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-Ferramentas
+<h3>Ferramentas</h3>
   </br>
 <p>
   
