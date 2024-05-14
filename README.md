@@ -87,6 +87,18 @@ Back-end
 
 </div> 
 
+
+
+
+| Python3 | C# | Java | C |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>|
+
+
+
 <div align="center">
   </br>
   </br>
