@@ -78,7 +78,6 @@ informacoes_gerais = {
 <fieldset>
 </br>
 <h3>Back-end</h3>
-</br>
 	
 | Python3 | C# | Java | C |
 |----------|----------|----------|----------|
