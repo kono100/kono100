@@ -94,7 +94,7 @@ informacoes_gerais = {
   </br>
   </br>
 <h3>Front-end</h3>
-</br>
+
 
 | HTML5 | CSS | JavaScript | Bootstrap |
 |----------|----------|----------|----------|
@@ -116,8 +116,7 @@ informacoes_gerais = {
 
 <div align="center">
 <h3>Banco de Dados</h3>
-  </br>
-  </br>
+	
 <p>
 	
 | MySQL |
@@ -127,14 +126,13 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
+</br>
 
 
 
 
 <div align="center">
 <h3>Cloud</h3>
-  </br>
-  </br>
 <p>
   
 
@@ -147,12 +145,11 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
+</br>
 
 
 <div align="center">
 <h3>Ferramentas</h3>
-  </br>
-  </br>
 <p>
   
 
@@ -164,7 +161,7 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
-
+</br>
 
 
   
