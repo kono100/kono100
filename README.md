@@ -172,7 +172,7 @@ informacoes_gerais = {
 
 | Azure | GCP | AWS |
 |----------|----------|----------|
-|  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" title="VsCode"  alt="VsCode" width="55" height="55"/> | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS"  alt="AWS" width="55" height="55"/> |
+|  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D" title="GCP"  alt="GCP" width="55" height="55"/> | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS"  alt="AWS" width="55" height="55"/> |
 
 
   
