@@ -172,7 +172,7 @@ informacoes_gerais = {
 
 | Azure | GCP | AWS |
 |----------|----------|----------|
-|  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="80" height="80"/> | <img src="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D" title="GCP"  alt="GCP" width="80" height="80"/> | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS"  alt="AWS" width="80" height="80"/> |
+|  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="80" height="80"/> | <img src="https://cdn.qwiklabs.com/BQ94osbb8lz2PrmkD7cDcb9PYjgVeur%2BCLXN%2FoEdfTA%3D" title="GCP"  alt="GCP" width="80" height="80"/> | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS"  alt="AWS" width="80" height="80"/> |
 
 
   
