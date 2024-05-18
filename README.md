@@ -91,7 +91,7 @@ informacoes_gerais = {
 
 <div align="center">
   </br>
-  </br>
+
 <h3>Front-end</h3>
 
 
@@ -102,7 +102,6 @@ informacoes_gerais = {
 
  </div>
  </div>
-</br>
 </br>
 
 
@@ -125,7 +124,6 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
-</br>
 
 
 
@@ -144,7 +142,7 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
-</br>
+
 
 
 <div align="center">
@@ -161,7 +159,7 @@ informacoes_gerais = {
 </p>
 </div>
 </br>
-</br>
+
 
 
 
