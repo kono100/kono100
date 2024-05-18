@@ -166,7 +166,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h3>Ferramentas</h3>
+<h3>Certificações</h3>
 <p>
   
 
