@@ -164,6 +164,24 @@ informacoes_gerais = {
 </br>
 
 
+
+<div align="center">
+<h3>Ferramentas</h3>
+<p>
+  
+
+| Azure | GCP | AWS |
+|----------|----------|----------|
+|  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" title="VsCode"  alt="VsCode" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" title="BI"  alt="BI" width="55" height="55"/> |
+
+
+  
+</p>
+</div>
+</br>
+</br>
+
+
   
  <div align="center">
   <a href="https://www.instagram.com/thiago.yugue/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
