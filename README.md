@@ -161,13 +161,13 @@ informacoes_gerais = {
 </br>
 
 <div align="center">
-<h3>Ferramentas</h3>
+<h3>Outros</h3>
 <p>
   
 
-| OpenCV | .Net | Swager |
+| OpenCV | .Net | Jupyter |
 |----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" title="VsCode"  alt="VsCode" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" title="BI"  alt="BI" width="55" height="55"/> |
+|  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" title=".Net"  alt=".Net" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="55" height="55"/> |
 
 
   
