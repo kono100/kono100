@@ -166,15 +166,13 @@ informacoes_gerais = {
   
 
 | OpenCV | .Net | Jupyter | Swagger |
-|----------|----------|----------|
-|  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" title=".Net"  alt=".Net" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger"  alt="Swagger" width="55" height="55"/> |
+|----------|----------|----------|----------|
+|  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" title="OpenCV"  alt="OpenCV" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" title=".Net"  alt=".Net" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger"  alt="Swagger" width="55" height="55"/> |
 
-
-  
 </p>
 </div>
 </br>
+
 
 
 <div align="center">
