@@ -77,7 +77,7 @@ informacoes_gerais = {
 <div align="center" style="display: inline_block">
 <fieldset>
 </br>
-<h1>Back-end</h1>
+<h3>Back-end</h3>
 	
 | Python3 | C# | Java | C |
 |----------|----------|----------|----------|
@@ -90,9 +90,8 @@ informacoes_gerais = {
 
 
 <div align="center">
-  </br>
 
-<h1>Front-end</h1>
+<h3>Front-end</h3>
 
 
 | HTML5 | CSS | JavaScript | Bootstrap |
@@ -102,7 +101,6 @@ informacoes_gerais = {
 
  </div>
  </div>
-</br>
 
 
 
@@ -113,7 +111,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h1>Banco de Dados</h1>
+<h3>Banco de Dados</h3>
 	
 <p>
 	
@@ -122,14 +120,12 @@ informacoes_gerais = {
 |  <img src="https://camo.githubusercontent.com/e8a5f4b9b8dd4744587a8107387603fcee2dfae96a34f75a867641bcea088113/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" title="SQL Server"  alt="SQL Server" width="55" height="55"/> |
 </p>
 </div>
-</br>
-
 
 
 
 
 <div align="center">
-<h1>Cloud</h1>
+<h3>Cloud</h3>
 <p>
   
 
@@ -141,12 +137,11 @@ informacoes_gerais = {
   
 </p>
 </div>
-</br>
 
 
 
 <div align="center">
-<h1>Ferramentas</h1>
+<h3>Ferramentas</h3>
 <p>
   
 
@@ -156,13 +151,12 @@ informacoes_gerais = {
 
 </p>
 </div>
-</br>
 
 
 
 
 <div align="center">
-<h1>Outros</h1>
+<h3>Outros</h3>
 <p>
   
 
@@ -172,12 +166,11 @@ informacoes_gerais = {
 
 </p>
 </div>
-</br>
 
 
 
 <div align="center">
-<h1>Certificações</h1>
+<h3>Certificações</h3>
 <p>
   
 
