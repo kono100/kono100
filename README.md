@@ -77,7 +77,7 @@ informacoes_gerais = {
 <div align="center" style="display: inline_block">
 <fieldset>
 </br>
-<h2>Back-end</h2>
+<h1>Back-end</h1>
 	
 | Python3 | C# | Java | C |
 |----------|----------|----------|----------|
@@ -92,7 +92,7 @@ informacoes_gerais = {
 <div align="center">
   </br>
 
-<h2>Front-end</h2>
+<h1>Front-end</h1>
 
 
 | HTML5 | CSS | JavaScript | Bootstrap |
@@ -113,7 +113,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h2>Banco de Dados</h2>
+<h1>Banco de Dados</h1>
 	
 <p>
 	
@@ -129,7 +129,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h2>Cloud</h2>
+<h1>Cloud</h1>
 <p>
   
 
@@ -146,7 +146,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h2>Ferramentas</h2>
+<h1>Ferramentas</h1>
 <p>
   
 
@@ -162,7 +162,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h2>Outros</h2>
+<h1>Outros</h1>
 <p>
   
 
@@ -177,7 +177,7 @@ informacoes_gerais = {
 
 
 <div align="center">
-<h2>Certificações</h2>
+<h1>Certificações</h1>
 <p>
   
 
