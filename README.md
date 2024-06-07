@@ -175,7 +175,7 @@ informacoes_gerais = {
   
 
 | Azure 5x | GCP 7x | AWS 1x | Cisco 1x |
-|----------|----------|----------|
+|----------|----------|----------|----------|
 |  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" title="Azure"  alt="Azure" width="80" height="80"/> | <img src="https://templates.images.credential.net/16590181582433100721069374350922.png" title="GCP"  alt="GCP" width="80" height="80"/> | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" title="AWS"  alt="AWS" width="80" height="80"/> | <img src="https://images.credly.com/size/220x220/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" title="Cisco"  alt="Cisco" width="80" height="80"/> |
 
 
