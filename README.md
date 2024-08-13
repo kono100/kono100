@@ -35,7 +35,7 @@ informacoes_gerais = {
 "cloud": ["Azure", "Google Cloud", "AWS", "Cisco"],
 "ocupacoes": {
         "estudante": "Cursando Analise e desenvolvimento de Sistemas em Faculdade REGES",
-	"periodo": "5/6",
+	"periodo": "6/6",
         "trabalho": "Fiscalização de Veiculos de Carga",
         "hobbies": [
             "Viajar é uma maneira emocionante de expandir horizontes, criar memórias inesquecíveis", 
