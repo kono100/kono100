@@ -123,21 +123,18 @@ informacoes_gerais = {
 
 
 
-
 <div align="center">
 <h3>Cloud</h3>
 <p>
   
 
-| Azure | GCP |
-|----------|----------|
-|  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="GCP"  alt="GCP" width="55" height="55"/> |
-
+| Azure | GCP | AWS |
+|----------|----------|----------|
+|  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/azure-icon.svg" title="Azure"  alt="Azure" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" title="GCP"  alt="GCP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="55" height="55"/> |
 
   
 </p>
 </div>
-
 
 
 <div align="center">
