@@ -34,7 +34,7 @@ informacoes_gerais = {
 "tecnologias": ["OpenCV", "Roboflow", "OCR", "Flask", "Yolo", "HTML", "CSS"],
 "cloud": ["Azure", "Google Cloud", "AWS", "Cisco"],
 "ocupacoes": {
-        "estudante": "Formado em Analise e desenvolvimento de Sistemas em Faculdade REGES",
+        "formado": "Analise e desenvolvimento de Sistemas em Faculdade REGES",
 	"periodo": "6/6",
         "trabalho": "Fiscalização de Veiculos de Carga",
         "hobbies": [
